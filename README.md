@@ -5,8 +5,8 @@
 
 
 
-- 🔭 I’m currently working on my [Portfolio](https://awarejay.github.io)
-- 🌱 I’m currently learning Vue, Angular and Web Development as a wholw
+- 🔭 I’m currently working on my [Portfolio](https://jay-aware.github.io)
+- 🌱 I’m currently learning Vue, Angular and Web Development as a whole
 - ⚡ Fun fact: I love coding!
 <hr>
 
