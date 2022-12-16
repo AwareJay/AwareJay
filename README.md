@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on my [Portfolio](https://jayaware.me)
+
 - 🌱 I’m currently learning Vue, Angular and Web Development as a whole
 - ⚡ Fun fact: I love coding!
 <hr>
